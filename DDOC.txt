@@ -1,0 +1,31 @@
+Web Development: 
+
+➡️ Web development is the process of designing, developing, and maintaining applications using frontend technologies for user interaction,
+    backend technologies for processing, and databases for storage.
+1. Web development involves Frontend (UI/UX & interactivity), Backend (server-side logic & processing), and Database (MongoDB, PostgreSQL, etc.)
+2. A full-stack developer works on both frontend (React, Vue, etc.) and backend (Node.js, Express, etc.)
+3. Key technologies include HTML, CSS, JavaScript, Node.js, and MongoDB
+4. Modern web apps often use frameworks like React (frontend), Express (backend), and Ruby on Rails (alternative backend framework)
+
+
+➡️
+What are the main parts of a web application?
+🔹Frontend (UI, responsiveness, design), Backend (processing, authentication, APIs), Database (storage, queries, transactions)
+
+What’s the difference between frontend and backend?
+✅ Frontend: Runs in the browser, interacts with the user.
+✅ Backend: Runs on a server, processes logic, and manages data.
+
+Why do we use frameworks like React instead of plain JavaScript?
+
+1. React is a library (not a framework).
+2. React makes development faster, modular, and efficient by allowing reusable components and managing UI efficiently using a Virtual DOM.
+What’s an API, and why is it important in web development?
+🔹 API (Application Programming Interface) allows different parts of an application to communicate.
+🔹 It’s important because it enables frontend and backend communication (e.g., Fetching data from a database).
+
+What role does a database play in a web app?
+✅ Stores and retrieves data efficiently.
+✅ Allows manipulation, queries, and transactions (like user authentication, product listings, etc.).
+
+
