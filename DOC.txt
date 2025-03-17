@@ -28,4 +28,4 @@ What role does a database play in a web app?
 ✅ Stores and retrieves data efficiently.
 ✅ Allows manipulation, queries, and transactions (like user authentication, product listings, etc.).
 
-
+L
