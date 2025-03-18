@@ -1,5 +1,5 @@
 Web Development: 
-Varun
+
 ➡️ Web development is the process of designing, developing, and maintaining applications using frontend technologies for user interaction,
     backend technologies for processing, and databases for storage.
 1. Web development involves Frontend (UI/UX & interactivity), Backend (server-side logic & processing), and Database (MongoDB, PostgreSQL, etc.)
